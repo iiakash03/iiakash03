@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! 👋 I'm Akash Saxena
 
-<!--
-**iiakash03/iiakash03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👂 My name is Akash
+* 🔭 I’m currently working on ReactJS, MERN stack development
+* 🌱 I’m currently learning NextJS, AWS
+* 💬 Ask me about web development
+* 📫 How to reach me: [Email](mailto:your.email@gmail.com) * 🌐 [Website](https://65baa790b3e8c520c1e646b0--reliable-rabanadas-63463b.netlify.app/)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate web developer with a keen interest in building robust and scalable applications. Outside of work, you can find me experimenting with new recipes in the kitchen or hanging out with friends and family. I strongly believe in giving back to the community and using my skills to contribute to causes I believe in.
+
+I'm excited about the opportunities that lie ahead and look forward to collaborating with like-minded individuals on projects that push the boundaries of what's possible.
+
+## Skills
+
+- **Programming Languages**: JavaScript, HTML, CSS
+- **Technologies & Tools**: ReactJS, Node.js, Express.js, MongoDB, Git
+- **Other Skills**: UI/UX design, Agile development methodologies
