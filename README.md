@@ -3,8 +3,9 @@
 * 👂 My name is Akash
 * 🔭 I’m currently working on ReactJS, MERN stack development
 * 🌱 I’m currently learning NextJS, AWS
-* 💬 Ask me about web development
-* 📫 How to reach me: [Email](mailto:your.email@gmail.com) * 🌐 [Website](https://65baa790b3e8c520c1e646b0--reliable-rabanadas-63463b.netlify.app/)
+* 💬 Ask me about ReactJS, MERN stack development, NextJS, AWS, web development best practices, UI/UX design, Git, or agile development methodologies
+* 📫 How to reach me: [Email](mailto:your.email@gmail.com)
+* 🌐 [Website](https://65baa790b3e8c520c1e646b0--reliable-rabanadas-63463b.netlify.app/)
 
 ## About Me
 
