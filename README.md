@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 🔭 I’m currently working on [Promptopia](https://github.com/iiakash03/promptopia)
+- 🔭 I’m currently working on Learning 
 
 - 🌱 I’m currently learning **NextJS,AWS, Devops**
 
